@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://codecave.pro/sitemap.xml
+Host: https://codecave.pro
